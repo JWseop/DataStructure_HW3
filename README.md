@@ -21,5 +21,6 @@ Algorithm
 2. scan element number of the proceeding case
 3. scan if the first three strings of input is bfs or dfs
 4. choose appropriate function to be called
-5. scan element number
-6. follow the node
+5. scan the searching element number in string
+6. scan elements and construct in BST(neither complete nor balanced form)
+7. search the answer
