@@ -17,10 +17,10 @@ The number in the first line (i.e., 2) shows the number of test cases to be proc
 In the first line (line number 2 in the example above), the first number (i.e., 3) indicates the number of integers in that case, and the next string (i.e., dfs(3)) shows the location of the target number that you need to look for. In this example, the target number is on the third node of DFS.
 
 Algorithm
-1. scan case number
-2. scan element number of the proceeding case
-3. scan if the first three strings of input is bfs or dfs
-4. choose appropriate function to be called
-5. scan the searching element number in string
-6. scan elements and construct in BST(neither complete nor balanced form)
-7. search the answer
+1. scan input data
+2. build elements in BST form
+3. scan if the first three string input is bfs or dfs
+4. choose appropriate searching function to be called
+5. scan how many times to search in string
+6. search
+7. pass the result to output file
